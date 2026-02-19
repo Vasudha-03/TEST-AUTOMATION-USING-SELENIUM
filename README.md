@@ -79,3 +79,6 @@ This task successfully demonstrated the automation of login and logout functiona
 Automation testing plays a vital role in modern software development by improving efficiency and ensuring application reliability. The knowledge gained from this task forms a strong foundation for advanced automation concepts such as data-driven testing, cross-browser testing, and continuous integration.
 
 
+*OUTPUT* 
+  <img width="1366" height="677" alt="Image" src="https://github.com/user-attachments/assets/544f3880-bb03-45e4-ac1b-ad66c5fe3473" />
+
